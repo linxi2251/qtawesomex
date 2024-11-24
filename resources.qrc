@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Gui/main.qml</file>
+        <file>Gui/qmldir</file>
+        <file>favicon.ico</file>
+    </qresource>
+</RCC>

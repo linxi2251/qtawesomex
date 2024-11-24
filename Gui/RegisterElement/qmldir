@@ -1,0 +1,3 @@
+module Gui.RegisterElement
+typeinfo main.qmltypes
+typeinfo qta_icon_font.qmltypes

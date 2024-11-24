@@ -1,0 +1,6 @@
+*spec
+*.user
+*.dist
+.idea
+*.release
+qtawesome\fonts

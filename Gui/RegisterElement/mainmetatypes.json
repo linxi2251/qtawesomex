@@ -1,0 +1,33 @@
+[
+    {
+        "classes": [
+            {
+                "className": "CustomProxyModel",
+                "qualifiedClassName": "CustomProxyModel",
+                "object": true,
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QSortFilterProxyModel"
+                    }
+                ],
+                "classInfos": [
+                    {
+                        "name": "QML.Element",
+                        "value": "auto"
+                    }
+                ]
+            }
+        ],
+        "outputRevision": 68,
+        "QML_IMPORT_NAME": "Gui.RegisterElement",
+        "QML_IMPORT_MAJOR_VERSION": 1,
+        "QML_IMPORT_MINOR_VERSION": 0,
+        "QT_MODULES": [
+            "QtCore",
+            "QtGui",
+            "QtQml"
+        ],
+        "inputFile": "D:/Users/buf/Documents/A_workspace/QML_study/qtawesomex/main.py"
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "classes": [
+            {
+                "className": "QtAwesomIconFont",
+                "qualifiedClassName": "QtAwesomIconFont",
+                "object": true,
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ],
+                "classInfos": [
+                    {
+                        "name": "QML.Element",
+                        "value": "auto"
+                    }
+                ],
+                "properties": [
+                    {
+                        "name": "fontMaps",
+                        "type": "dict",
+                        "index": 0,
+                        "read": "fontMaps"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "public",
+                        "name": "font",
+                        "arguments": [
+                            {
+                                "name": "a1",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "a2",
+                                "type": "int"
+                            }
+                        ],
+                        "returnType": "QFont"
+                    },
+                    {
+                        "access": "public",
+                        "name": "charmap",
+                        "arguments": [
+                            {
+                                "name": "a1",
+                                "type": "QString"
+                            }
+                        ],
+                        "returnType": "QString"
+                    }
+                ]
+            }
+        ],
+        "outputRevision": 68,
+        "QML_IMPORT_NAME": "Gui.RegisterElement",
+        "QML_IMPORT_MAJOR_VERSION": 1,
+        "QML_IMPORT_MINOR_VERSION": 0,
+        "QT_MODULES": [
+            "QtCore",
+            "QtGui",
+            "QtQml"
+        ],
+        "inputFile": "D:/Users/buf/Documents/A_workspace/QML_study/qtawesomex/qta_icon_font.py"
+    }
+]
