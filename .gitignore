@@ -4,3 +4,4 @@
 .idea
 *.release
 qtawesome\fonts
+*.zip
